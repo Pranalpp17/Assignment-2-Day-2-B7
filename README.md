@@ -1,2 +1,2 @@
-# Assignment-2-Day-2-B7
+# Assignments-of-Day-3-B7
 Assignment submission of Lets upgrade
